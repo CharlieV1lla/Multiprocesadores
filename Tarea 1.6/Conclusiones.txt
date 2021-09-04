@@ -1,0 +1,2 @@
+En la imagen agregada en esta carpeta podemos observar como la paralelización de funciones 
+es más veloz que correr el código entero de manera secuencial.
