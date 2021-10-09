@@ -1,0 +1,6 @@
+Sistema Operativo:	Windows 10 Pro 64 bits (10.0, compilaci[on 19043)
+       Fabricante:	THUNDEROBOT
+	   Modelo:	911 Plus
+	     BIOS:	1.07.01TQLM5
+       Procesador:	Intel Core i7-1075H CPU @ 2.60GHz (12 CPUs), 2.6GHz
+	  Memoria:	32768MB RAM
