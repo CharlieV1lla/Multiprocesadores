@@ -1,10 +1,13 @@
 #include<stdio.h>
 #include<omp.h>
+#include <stdlib.h>
 static long num_pasos = 100000000;   //1 215 752 192
 double paso;
-#define NUM_THREADS 900
-void main()
+//#define NUM_THREADS 900
+void main(int argc, char *argv[])
 {
+    int NUM_THREADS;
+    NUM_THREADS=atoi(argv[1]);
     int i, nthreads;
     double resul, sum[NUM_THREADS];
     double a = 1.0;
